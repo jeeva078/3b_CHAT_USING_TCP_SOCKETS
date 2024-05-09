@@ -1,5 +1,4 @@
 # EX:3b CREATION FOR CHAT USING TCP SOCKETS
-## DATE:26.03.2024
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -35,11 +34,11 @@ while True:
 ## OUPUT
 ### CLIENT
 
-![3b 1](https://github.com/Divya110205/3b_CHAT_USING_TCP_SOCKETS/assets/119404855/17c7ce9c-b92e-4ad8-9a4d-84e04a0e6b59)
+![cn 3b -1](https://github.com/jeeva078/3b_CHAT_USING_TCP_SOCKETS/assets/147048597/2df7b0d4-a5a9-4da7-a588-6a743ba2a476)
 
 ### SERVER
 
-![3b 2](https://github.com/Divya110205/3b_CHAT_USING_TCP_SOCKETS/assets/119404855/b0f40891-b68f-4f44-ab1b-b827a7e670b2)
+![cn 3b -2](https://github.com/jeeva078/3b_CHAT_USING_TCP_SOCKETS/assets/147048597/411e24fc-be4b-454c-8ff7-a5b3db6eec79)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
